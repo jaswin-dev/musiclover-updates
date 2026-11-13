@@ -2,13 +2,13 @@
   "appId": "com.musiclover.player",
   "appName": "MusicLover Player",
   "platform": "android",
-  "version": "1.0.25",
-  "versionCode": 25,
+  "version": "1.0.26",
+  "versionCode": 26,
   "releaseNotes": "Latest MusicLover Player update",
-  "apkUrl": "https://github.com/jaswin-dev/musiclover-updates/releases/download/android-v1.0.25/MusicLover-Player-1.0.25.apk",
-  "sha256": "bff3037d9e49765b7d2bf3c81813a8f699d8eec9facaca75ca332c3c8e1370b1",
-  "fileSize": 3848870,
+  "apkUrl": "https://github.com/jaswin-dev/musiclover-updates/releases/download/android-v1.0.26/MusicLover-Player-1.0.26.apk",
+  "sha256": "f531e814c36d603363b9a31b2f007ce5f5dc61dd4d596114ec7592964f6192ca",
+  "fileSize": 3848906,
   "mandatory": false,
   "minimumSupportedVersionCode": 1,
-  "publishedAt": "2026-11-13T13:31:41Z"
+  "publishedAt": "2026-11-13T13:41:09Z"
 }
