@@ -2,13 +2,13 @@
   "appId": "com.musiclover.player",
   "appName": "MusicLover Player",
   "platform": "android",
-  "version": "1.0.1",
-  "versionCode": 2,
-  "releaseNotes": "Initial public update manifest. Install the latest signed APK when available.",
-  "apkUrl": "",
-  "sha256": "",
-  "fileSize": 0,
+  "version": "1.0.10",
+  "versionCode": 10,
+  "releaseNotes": "Latest MusicLover Player update",
+  "apkUrl": "https://github.com/jaswin-dev/musiclover-updates/releases/download/android-v1.0.10/MusicLover-Player-1.0.10.apk",
+  "sha256": "c2a1390a1edd86080dcf2643a473d46ed0e78d1c5466ff4af4e915dca2fcdb2c",
+  "fileSize": 3845773,
   "mandatory": false,
-  "publishedAt": "2026-11-13T11:09:54.991Z",
-  "minimumSupportedVersionCode": 1
+  "minimumSupportedVersionCode": 1,
+  "publishedAt": "2026-11-13T11:57:19Z"
 }
